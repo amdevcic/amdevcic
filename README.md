@@ -11,10 +11,10 @@
   </div>
 </div>
 
-<br><br><br>
+<br><br>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amdevcic&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=400px" align=left>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amdevcic&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact&card_width=405px" align=left>
   <div align=left>
     <b>My interests include:</b> <br>
       🖥 Computer graphics <br>
